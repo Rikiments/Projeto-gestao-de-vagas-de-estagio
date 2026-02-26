@@ -1,4 +1,4 @@
-const API_URL = 'https://bug-free-fiesta-69gwgg75gpr4hx4rj-8080.app.github.dev';
+const API_URL = 'http://localhost:8080';
 
 document.addEventListener('DOMContentLoaded', () => {
     setupNavigation();
